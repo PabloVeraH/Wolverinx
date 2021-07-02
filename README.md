@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Woverinx.Wolverinx)](https://github.com/Wolverinx)
+
+I'm Pablo Vera H.
+- <i>Currently:</i> Senior Analyst on "Caja Los Andes" company
+- <i>Previously:</i> Senior Developer Carabineros de Chile
+
+
+
 <!--
 **Wolverinx/Wolverinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
